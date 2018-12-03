@@ -1,4 +1,4 @@
-https://github.com/Difuon/difuon/blob/master/Difuon_Logo_circle_only.png
+![Difuon Logo](https://github.com/Difuon/difuon/blob/master/Difuon_Logo_circle_only.png)
 
 # difuon
 
